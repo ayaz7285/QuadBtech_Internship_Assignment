@@ -1,0 +1,31 @@
+.App {
+  background-color: #efeffb;
+  text-align: center;
+  min-height: 100vh;
+  padding-top: 20px;
+}
+
+.home {
+  min-height: 100vh;
+}
+
+.movie {
+  min-height: 92vh;
+  width: 75vw;
+  margin: auto;
+}
+
+.booking {
+  min-height: 92vh;
+  width: 75vw;
+  margin: auto;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin: "10px";
+}
